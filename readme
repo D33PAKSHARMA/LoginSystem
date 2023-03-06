@@ -1,0 +1,5 @@
+open this folder in vscode editor or any other editor
+Run command npm init install, it will install node modules
+Replace your Database link with my link in .env
+now for starting the server type "npm run dev" in the terminal
+Our server runs at localhost://3000
